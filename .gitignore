@@ -1,0 +1,8 @@
+/**/tmp/
+/**/dist/
+/**/__pycache__/
+*.exe
+/**/*.egg-info/
+test.py
+
+/old.git/**
